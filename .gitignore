@@ -1,3 +1,17 @@
+
+rayTracingInOneWeekend/*/test.exr
+hip/backup
+build
+cmake-build-debug
+### clion ###
+.idea
+### Emacs ###
+*~
+\#*\#
+.\#*
+
+
+# ----------- C++ github standard gitignore ------------
 # Prerequisites
 *.d
 
